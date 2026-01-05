@@ -84,13 +84,13 @@
     <h2>من نحن</h2>
     <form>
         <label>اسم المستخدم:</label>
-        <input type="text" value="قصي خالد غالب الصقيري" required>
+        <input type="text" value="" placeholder="اكتب اسمك" required>
 
         <label>كلمة المرور:</label>
-        <input type="password" value="0590940093qymrqsy" required>
+        <input type="password" value="" placeholder="اكتب كلمة المرور" required>
 
         <label>البريد الإلكتروني:</label>
-        <input type="email" value="qymrqsy30@gmail.com" required>
+        <input type="email" value="" placeholder="اكتب البريد الإلكتروني" required>
 
         <label>الجنس:</label>
         <select required>
