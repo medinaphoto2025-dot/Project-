@@ -62,7 +62,12 @@
     <h2>المعرض</h2>
     <h3>صور من تاريخ كرة القدم:</h3>
     <div>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/First_Football_World_Cup_1930.jpg" alt="كأس العالم 1930">
+        <img src="football1.jpg" alt="كأس العالم 1930">
+        <img src="football2.jpg" alt="فريق كرة القدم القديم">
+        <img src="football3.jpg" alt="الدوري الإنجليزي القديم">
+        <img src="football4.jpg" alt="مباراة كرة القدم في أوائل القرن العشرين">
+    </div>
+</section>src="https://upload.wikimedia.org/wikipedia/commons/8/82/First_Football_World_Cup_1930.jpg" alt="كأس العالم 1930">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Old_Football_Team.jpg" alt="فريق كرة القدم القديم">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/English_football_1888.jpg" alt="الدوري الإنجليزي القديم">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Football_match_early_1900s.jpg" alt="مباراة كرة القدم في أوائل القرن العشرين">
